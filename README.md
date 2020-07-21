@@ -1,5 +1,5 @@
 # H2O AI PowerShell Module
-This PowerShell Module is a simple wrapper for a series of POST requests to the H2O AI Open Source Platform Server. 
+This PowerShell Module is a simple wrapper for a series of POST requests to the [H2O AI](https://www.h2o.ai/) Open Source Platform Server. 
 
 [![PSGallery Version](https://img.shields.io/powershellgallery/v/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/H2OAI) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/H2OAI.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/H2OAI)
 
